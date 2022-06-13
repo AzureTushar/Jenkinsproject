@@ -1,0 +1,5 @@
+#!/bin/bash
+# my first sell script
+echo "Hello $USER"
+ech "Today is $(date)"
+echo "Bye for now"
